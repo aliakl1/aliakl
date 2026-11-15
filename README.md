@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliakl1
-- 👀 I’m interested in home automation mainly 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Personal Git mainly 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
