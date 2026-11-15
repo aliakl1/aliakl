@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliakl1
+- 👋 Hi, I’m @aliakl
 - 👀 Personal Git mainly 
 - 💞️ 
 - 📫 How to reach me ...
